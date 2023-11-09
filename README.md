@@ -1,5 +1,5 @@
 # AB-Testi-ile-BiddingYontemlerinin-Donusumunun-Karsilastirilmasi
-İŞ PROBLEMİ
+__İŞ PROBLEMİ__
 
 Facebook, kısa bir süre önce mevcut olan "maximumbidding" olarak adlandırılan teklif verme türüne alternatif olarak yeni bir teklif türü olan "averagebidding"i tanıttı. Müşterilerimizden biri olan bombabomba.com, bu yeni özelliği test etmeye karar verdi ve averagebidding'in maximumbidding'den daha fazla dönüşüm getirip getirmediğini anlamak için bir A/B testi yapmak istiyor.
 
